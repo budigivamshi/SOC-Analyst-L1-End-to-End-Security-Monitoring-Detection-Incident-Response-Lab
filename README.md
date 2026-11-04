@@ -10,6 +10,15 @@
 
 ---
 
+
+## 👤 About the Author
+
+**Budigi Vamshi**
+
+*Cybersecurity / SOC Analyst (Hands-On Lab & Practical Experience)*  
+*Home Security Lab · Self-employed*
+
+
 ## 📌 Project Overview
 
 This project is a practical **SOC Analyst L1 Security Monitoring and Incident Response Lab** designed to simulate real-world SOC operations.
